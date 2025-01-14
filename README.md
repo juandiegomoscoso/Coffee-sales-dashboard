@@ -37,3 +37,8 @@ This dynamic dashboard was created to **analyze and visualize key sales metrics*
 - **Top Customer Insights**: Identify high-value customers and assess their purchasing patterns to plan targeted loyalty or retention campaigns.
 - **Geographic Performance**: Explore sales by country to prioritize key markets and identify areas with growth potential.
 - **Impact of Loyalty Programs**: Evaluate how loyalty card holders contribute to revenue and refine strategies for improving the effectiveness of the program.
+
+## Files in this Repository
+
+1. **Coffee_Sales_Dashboard.xlsx**: The final Excel file containing the dashboard and interactive data visualizations.
+2. **coffeeOrdersData.xlsx**: The original fictional dataset used to create the dashboard.
