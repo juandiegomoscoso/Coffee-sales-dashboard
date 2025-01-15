@@ -1,5 +1,5 @@
 # COFFEE SALES DASHBOARD
-![Dashboard Image](images/dashboard.jpg)
+![Dashboard Image](images/Dashboard.png)
 ## About This Project
 
 This dashboard was created as part of a fictional case study to demostrate data visualization techniques. The data used in this project is entirely fictional.
